@@ -1,1 +1,0 @@
-HASKEL Curry
