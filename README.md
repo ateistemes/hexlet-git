@@ -1,2 +1,3 @@
-NO code NO pain
+<<<<<<< HEAD
+No code No pain
 experiment with amend
